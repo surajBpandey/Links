@@ -1,0 +1,2 @@
+1>https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails.
+2>https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin.
