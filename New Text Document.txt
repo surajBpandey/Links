@@ -1,1 +1,4 @@
 1>https://www.sitepoint.com/building-a-low-memory-web-application/
+Flux Concept
+
+https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
