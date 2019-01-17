@@ -1,0 +1,42 @@
+1.>http://bigspaceship.github.io/blog/2014/05/14/how-to-create-a-rest-api-with-node-dot-js/   ///Rest-Api...Link
+2.>https://toddmotto.com/react-create-class-versus-component/     ///React.Component Class Defination....!
+3.>https://medium.com/mofed/reduxs-mysterious-connect-function-526efe1122e4   //Mysterious Connect method...!
+4.>https://github.com/redux-utilities/flux-standard-action //GitHub Flux Concept...!!!
+5.>https://www.youtube.com/watch?v=cmHfn-ryEQ0 //Youtube Flux Concept from Scatch...!!!
+5.>https://docs.npmjs.com/getting-started/creating-node-modules //Creating-Node-Modules...!!!
+6.>http://facebook.github.io/graphql/October2016/      //GrapQL Books...!!!
+7.>http://www.tothenew.com/blog/nodejs-with-mysql/   //MySql-Sequalize...!!!
+8.>https://dev-blog.apollodata.com/the-anatomy-of-a-graphql-query-6dffa9e9e747 // Anatomy of GrapQL Query...!!!
+9.>http://docs.sequelizejs.com/manual/installation/getting-started.html    //Sequlize Tutorials 
+10.>https://github.com/rexxars/sql-to-graphql/blob/master/backends/mysql.js         //Sql-To-GrapQL...!!! 
+11.>https://www.npmjs.com/   //npm-Official-Docs...!!!
+12.>https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/    //Building a grapQL Server 
+13.>https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/     //When not use Arrow Functions...!!
+14.>https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes     //Git Hub Basics...!!!
+15.>https://stackoverflow.com/questions/29960764/what-does-extended-mean-in-express-4-0   //Query-String...!!!
+16.>https://sailsjs.com/documentation/reference/response-res/res-send   //Express More
+17.>https://scotch.io/tutorials/express-file-uploads-with-multer        //For Uploading The Form...!!!
+18.>https://github.com/expressjs/multer/blob/master/README.md         //For Uploading The Form Multer...!!!
+19.>https://www.sitepoint.com/premium/books/build-mobile-websites-and-apps-for-smart-devices //My List of Links...!!!
+20.>https://scotch.io/tutorials/routing-react-apps-the-complete-guide  //From Scratch React Config and React-Router...!!!
+21.>https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf    //Medium React Routing...!!!
+22.>https://github.com/graphcool-examples/react-graphql    //React-GraphQL...!!!
+23.>https://www.howtographql.com/react-apollo/1-getting-started/    //Apollo GrapQL Recat....!!!
+24.>https://wesbos.com/tagged-template-literals/          //Tagged Template Literals ...!!!
+25.>https://github.com/apollographql/apollo-client/blob/master/docs/source/essentials/queries.md    ...!!!
+26.>https://www.apollographql.com/docs/react/api/react-apollo.html    //Manually Sending Queries...!!!
+27.>https://blog.graph.cool/graphql-server-basics-the-schema-ac5e2950214e  //GrapQL New Techniques...!!!
+28.>https://davidwalsh.name/fetch   //Fetch-Request-Cool...!!!
+29.>https://www.codementor.io/olatundegaruba/5-steps-to-authenticating-node-js-with-jwt-7ahb5dmyr  ///JWT-TOKENS///
+30.>http://www.bentedder.com/part-2-node-js-implementation-of-jwt-json-web-tokens/   //JWT-TOKENS...///
+30.>https://github.github.io/fetch/   //Basic Idea...!!!
+31.>https://auth0.com/learn/json-web-tokens/   JWT-TOKENS  ////
+32.>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data //Fetching Data 
+33.>https://www.onlinegdb.com/online_c_compiler   //Online C Compiler...!!!
+34.>https://github.com/ReactTraining/react-router/issues/5521   //Allow passing props to <Route> to be passed down to the component it renders
+35.>https://www.lifewire.com/what-does-checksum-mean-2625825    //CheckSum Value... Verifier!!!
+36.>https://github.com/apollographql/graphql-guide/blob/master/source/schemas.md   //GraphQL Schema Language
+37.>https://www.masterclass.com  //Popular website for Universe Exploration....!!!
+38.>https://www.owasp.org/index.php/Main_Page   //Owasap Framework...!!!
+39.>https://codebrahma.com/form-libraries-in-react/    //React-Form...!!!
+40.>https://tylermcginnis.com/react-router-pass-props-to-components/    //Pass props to a component rendered by React Router
