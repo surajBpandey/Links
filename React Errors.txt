@@ -5,3 +5,22 @@
     in Route (created by withRouter(taskDetail))
     in withRouter(taskDetail) (created by Connect(withRouter(taskDetail)))
     in Connect(withRouter(taskDetail)) (at SidebarRoute.jsx:53)
+
+2>>React - Resolving Error "The node to be removed is not a child of this node"
+
+   https://www.newventuresoftware.com/blog/react---resolving-error-the-node-to-be-removed-is-not-a-child-of-this-node
+
+
+   "The node to be removed is not a child of this node" is a dreadful error haunting the lives of developers new to React, 
+    me included. If you are getting this error, it probably means that you or a plugin being used is manipulating the DOM 
+    outside of React. But why use such plugins in the first place?
+
+   In the global scheme of things, React is a new framework which is lacking the breadth of 3rd party controls available
+   for frameworks like jQuery. This is slowly starting to change, for example, Progress have recently released the first
+   version of their native React components featuring Grid, Layout, DropDowns, and more. Still, there is a gap between 
+   jQuery and React. This is where the Kendo UI React Wrappers come in - they allow you to use the existing jQuery components
+   in a React application.
+
+   So, back to the problem. Lets take a look at a very simple scenario where the nature of the Kendo wrappers or any other
+  jQuery plugin can cause problems. It is a usual practice in React to hide/show components based on a condition. 
+  When the condition becomes false, the respective component will be removed from the DOM. For example:
